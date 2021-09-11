@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=wik3d&show_icons=true&include_all_commits=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=22272e&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wik3d)](https://github.com/anuraghazra/github-readme-stats)
