@@ -1,8 +1,8 @@
-👨‍💻 Hey! I'm [nxsi](https://www.nxsi.tech/) AKA. the worst dev on earth ngl
+Hey, I'm [Wik3d](https://github.com/wik3d)
 ----------------------------------------------------------
 
 
-[![nxsi's github stats](https://github-readme-stats.vercel.app/api?username=n-xsi&count_private=true&show_icons=true&theme=dark)](https://github.com/n-xsi)
+[![wik3d's github stats](https://github-readme-stats.vercel.app/api?username=wik3d&count_private=true&show_icons=true&theme=dark)](https://github.com/wik3d)
 
 
 ### About me
