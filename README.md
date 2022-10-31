@@ -7,7 +7,7 @@ Hey, I'm [Wik3d](https://github.com/wik3d)
 
 ### About me
 
--  **Working on :** Currently working on [**NeonBot**](https://neonbot.me/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@nxsi**](https://github.com/n-xsi) and [**@Zyp**](https://github.com/Zyprus)
+-  **Working on:** Currently working on [**NeonBot**](https://neonbot.me/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@nxsi**](https://github.com/n-xsi) and [**@Zyp**](https://github.com/Zyprus)
 
 ### Discord
 
