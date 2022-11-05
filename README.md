@@ -15,7 +15,7 @@ Hey, I'm [Wik3d](https://github.com/wik3d)
 
 ### Languages & Tools
 <a href="#">
-  <img align="center" alt="top-langs" src="https://github-readme-stats-1m9e-3ecy1zqod-wik3d.vercel.app/api/top-langs?username=wik3d&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compac" />
+  <img align="center" alt="top-langs" src="https://github-readme-stats-1m9e-3ecy1zqod-wik3d.vercel.app/api/top-langs?username=wik3d&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact" />
 </a>
 
 ---
