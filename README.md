@@ -2,9 +2,6 @@ Hey, I'm [Wik3d](https://github.com/wik3d)
 ----------------------------------------------------------
 
 
-[![wik3d's github stats](https://github-readme-stats.vercel.app/api?username=wik3d&count_private=true&show_icons=true&theme=dark)](https://github.com/wik3d)
-
-
 ### About me
 
 -  **Working on:** Currently working on [**NeonBot**](https://neonbot.me/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@nxsi**](https://github.com/n-xsi) and [**@Zyp**](https://github.com/Zyprus)
