@@ -18,7 +18,7 @@ Hey, I'm [Wik3d](https://github.com/wik3d)
 ---
 
 [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://www.javascript.com/)
-[<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />](https://www.typescriptlang.org/) 
+[<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" />](https://www.typescriptlang.org/) 
 [<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/)
 [<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>](https://www.sqlite.org/index.html) 
