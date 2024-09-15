@@ -4,7 +4,7 @@ Hey, I'm [Jack](https://github.com/wik3d). I'm a TypeScript Developer
 
 ### About me
 
--  **Working on:** [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@nxsi**](https://github.com/n-xsi) and [**@Zyp**](https://github.com/Zyprus)
+-  **Working on:** [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim) and [**@nxsi**](https://github.com/n-xsi)
 
 ### Discord
 
